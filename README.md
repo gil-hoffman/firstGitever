@@ -7,11 +7,11 @@ _i wounder_
 * item 2
   * subitem
   http://www.stg.vantage.team
-  '''' javascript
+  ``` javascript
   function alert(){
   alert('ok)
   }
-  
+  ```
   
   -[x] finish this 
   
